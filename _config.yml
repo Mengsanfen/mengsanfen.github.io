@@ -23,7 +23,7 @@ repository               : "Mengsanfen/mengsanfen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yuxiang.jpg"
   name             : "Yuxiang Wang (王宇翔)"
   pronouns         : # example: "she/her"  
   bio              : "Yuxiang Wang is an M.S. student at Beijing University of Technology. His research focuses on computer vision, deep learning, and few-shot learning."
