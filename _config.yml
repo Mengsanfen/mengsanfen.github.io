@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "HomePage"
+title                    : "Yuxiang Wang"
 title_separator          : "-"
 name                     : &name "Yuxiang Wang"
 description              : &description "Yuxiang Wang is an M.S. student at Beijing University of Technology. His research focuses on computer vision, deep learning, and few-shot learning."   # Update this with a general description of your site, this is the default if not overridden by a page
