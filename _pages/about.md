@@ -11,7 +11,7 @@ Hi, I’m Yuxiang Wang, a Master’s student at Beijing University of Technology
 
 My research interests lie at the intersection of Computer Vision, Deep Learning, and Few-Shot Learning (FSL). I am particularly passionate about advancing medical AI, exploring how innovative architectures like State Space Models (Mamba) and In-Context Learning (ICL) can enhance diagnostic precision in data-scarce environments. I strive to develop robust algorithms that can effectively handle fine-grained medical image classification and cross-modal semantic alignment.
 
-Publications
+🔥 News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
