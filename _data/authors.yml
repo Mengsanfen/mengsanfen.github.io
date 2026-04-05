@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Yuxiang Wang"
+  uri         : "https://mengsanfen.github.io"
+  email       : "sfmeng1208@163.com"
+  bio         : "Yuxiang Wang is an M.S. student at Beijing University of Technology. His research focuses on computer vision, deep learning, and few-shot learning."
+  avatar      : "yuxiang.jpg"
+  # twitter     : "name"
+  # google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
